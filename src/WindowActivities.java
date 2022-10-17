@@ -14,7 +14,5 @@ public class WindowActivities {
 		driver.navigate().forward();
 		Thread.sleep(5000);
 		driver.quit();
-
 	}
-
 }
